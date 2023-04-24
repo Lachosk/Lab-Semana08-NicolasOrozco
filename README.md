@@ -1,7 +1,7 @@
 # Lab-Semana08-NicolasOrozco
 ## Instrucciones para usar el código:
-1.	Ingresar a JSON Formatter & Validator (curiousconcept.com), copiar todo el código del archivo “info.js”, dar Process. Copiar el código resultante.
-2.	Ingresar a Console | Mockable y crear una cuenta. 
+1.	Ingresar a https://jsonformatter.curiousconcept.com/, copiar todo el código del archivo “info.js”, dar Process. Copiar el código resultante.
+2.	Ingresar a https://www.mockable.io/a/#/ y crear una cuenta. 
 3.	Dar en el botón Manage.
 4.	Dar en el botón REST Mock.
 5.	Pegar el código en la sección de Response body.
